@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>calculator</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <!--  Create a faulty calculator using JavaScript
+
+This faulty calculator does following:
+ It takes two numbers as input from the user--->
+
+
+    <h1>calculator</h1> 
+    <!-- take input as number from user -->
+    <label for="input1">First number:</label>
+    <input  type="number" id=input1  >
+    <label for="input2">second number:</label>
+    <input type="number" id=input2 >
+   
+    <select name="operations" id="operations">
+        <!-- take input as oprator from user -->
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="**">**</option>
+        <option value="/">/</option>
+    </select>
+    <br></br>
+    <br></br>
+    <!-- button for start the calculation-->
+    <button value="calculate" onclick="calculate()" id="button">calculate</button>
+    <!-- result will display here -->
+    <p id="result"></p>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

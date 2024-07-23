@@ -1,0 +1,5 @@
+.login{border: 1px solid #dbdbdb;margin-top:0%;margin-bottom:10px;padding:3%;margin-right:41VW;margin-left: 35vw;border-radius: 5px;}
+.instaimg{display:flex ; justify-content : center ;align-items:center;margin-bottom: 10px;margin-top: 0%;}
+input[type="text"],input[type="password"] {width: 100%;padding: 10px;border: 1px solid #ccc;border-radius: 3px;margin-bottom: 15px;}
+button[type="submit"] {background-color: #4cb5f9;color: white;padding: 10px 20px;border: none;border-radius: 5px;cursor: pointer;font-size: 10px;width: 18.5vw;}
+.line-container {margin: 20px auto;}

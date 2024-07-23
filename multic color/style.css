@@ -1,0 +1,5 @@
+:root{--color:green;--seccolor:lightgreen;}
+nav{background-color:var(--color);color: var(--seccolor);border-radius: 20px;}
+ul li{list-style: none;}
+nav ul{display:flex;}
+.navbar{margin: 10px;}

@@ -1,0 +1,5 @@
+*{background-color: black;color: rgb(255, 255, 255);}
+h1{display: flex;align-items: center;justify-content: center;}
+button{background-color: rgb(173, 91, 255);}
+input{background-color: rgb(255, 255, 255);color: black;}
+#result{border: 2px solid white;height:15px;width:100px;padding: 5px;}
