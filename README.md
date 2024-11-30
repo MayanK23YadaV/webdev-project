@@ -71,8 +71,8 @@ I’d love to hear your feedback or collaborate on new features! Feel free to:
 
 Let’s connect!  
 - **Email**: mayankyadav.tech.coder@gmail.com  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/mayank-yadav-554620307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BphWyPSTWRHSXFdxcxlRKwg%3D%3D)  
-- **GitHub**: [Your GitHub Profile](https://github.com/MayanK23YadaV)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mayank-yadav-554620307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BphWyPSTWRHSXFdxcxlRKwg%3D%3D)  
+- **GitHub**: [GitHub Profile](https://github.com/MayanK23YadaV)  
 
 ---
 
